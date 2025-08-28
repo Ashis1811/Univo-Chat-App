@@ -1,6 +1,6 @@
 <h1 align="center">✨ Fullstack Chat & Video Calling App ✨</h1>
 
-![Demo App](/https://univo-chat-app.onrender.com)
+## Live Demo : https://univo-chat-app.onrender.com
 
 Highlights:
 
